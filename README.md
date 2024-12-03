@@ -1,4 +1,7 @@
 # SUAV Payload System – Payload Integration Design
+<img width="600" alt="Screenshot 2024-12-02 at 10 31 29 PM" src="https://github.com/user-attachments/assets/14533f3b-c26f-44e1-96e3-783a414802c7">
+
+<img width="350" alt="Screenshot 2024-12-02 at 10 30 36 PM" src="https://github.com/user-attachments/assets/a3052e62-702d-4f6f-8051-18a709dfc618">
 
 The SUAV UAV Payload System is designed to handle and deploy payloads with precision and reliability. The system integrates seamlessly with the drone's electrical and mechanical architecture, ensuring efficient power delivery and robust control over the payload deployment mechanism.
 #
